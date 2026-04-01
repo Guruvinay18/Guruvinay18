@@ -1,7 +1,7 @@
 # Hi, I'm Guru Vinay 👋
 
 💻 Aspiring Software Engineer  
-🚀 Skilled in HTML, CSS, JavaScript, Python, Django  
+🚀 Skilled in HTML, CSS, JavaScript, React.js Python, Django, MySQL 
 📊 Strong in problem solving & logical thinking  
 
 ---
