@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Guru Vinay 👋
 
-<!--
-**Guruvinay18/Guruvinay18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer  
+🚀 Skilled in HTML, CSS, JavaScript, Python, Django  
+📊 Strong in problem solving & logical thinking  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- 🛒 ShopEase – E-commerce frontend UI  
+- 🏫 School Management System – Django backend  
+
+---
+
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Python, Django  
+- Database: MySQL  
+
+---
+
+## 📫 Contact Me
+📧 Email: guruvinay2002@gmail.com 
+
+---
+
+⭐ Actively looking for Software Engineer / Internship opportunities
